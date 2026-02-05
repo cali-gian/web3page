@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://ipfs.io/ipfs/QmaSrJwUV6Mz2P6p28YkNBwds9BboWRRXq7RJx32ac5fPC/",
+        "destination": "https://ipfs.filebase.io/ipfs/QmaSrJwUV6Mz2P6p28YkNBwds9BboWRRXq7RJx32ac5fPC/",
         "permanent": true
       }
     ]
